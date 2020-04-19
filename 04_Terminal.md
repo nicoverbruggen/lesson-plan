@@ -25,6 +25,7 @@ Excellent post on [StackOverflow](https://stackoverflow.com/a/36495940).
 * **mv**: Move/rename file or directory
 
 # Advanced commands
+* nano: Simple text editor
 * ln: Link files
 * ps: List processes that are active (usually `ps aux`)
 
