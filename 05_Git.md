@@ -40,8 +40,6 @@
 * Why do I need to keep staging files as I make changes?
     - Because every time you make a change, you're staging those specific changes
     - Subsequent (unstaged) changes need to be staged every time
-* Understanding Git integrations in VS Code
-    - There are good plugins available for VS Code
 
 ## Working with branches
 * What is the HEAD?
