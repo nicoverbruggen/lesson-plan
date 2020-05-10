@@ -16,23 +16,23 @@ Excellent post on [StackOverflow](https://stackoverflow.com/a/36495940).
 * Understanding filesystem (may require [X01](/X01_Computers.md) knowledge)
 
 ## Basic commands
-* **man**: Request manual for specific program
-* **pwd**: Prints current working directory (Print Working Directory)
-* **cd**: Changes the active directory (Change Directory)
-* **cat**: Concatenate file to output (conCATenate)
-* **ls**: List file directory contents (LiSt contents)
-* **cp**: Copy file or directory
-* **mv**: Move/rename file or directory
+* `man`: Request manual for specific program (MANual)
+* `pwd`: Prints current working directory (Print Working Directory)
+* `cd`: Changes the active directory (Change Directory)
+* `cat`: Concatenate file to output (conCATenate)
+* `ls`: List file directory contents (LiSt contents)
+* `cp`: Copy file or directory (CoPy)
+* `mv`: Move/rename file or directory (MoVe)
 
 # Advanced commands
-* nano: Simple text editor
-* ln: Link files
-* ps: List processes that are active (usually `ps aux`)
+* `nano`: Simple text editor
+* `ln`: Link files
+* `ps`: List processes that are active (usually `ps aux`)
 
 # Combining commands
-* mkdir hello && cd hello && git init
+* `mkdir hello` && `cd hello && git init`
 
 # Piping
-* cat sample.txt | grep hello
-* ps aux | grep user
-* cat sample.txt | grep hello > out.txt
+* `cat sample.txt | grep hello`
+* `ps aux | grep user`
+* `cat sample.txt | grep hello > out.txt`

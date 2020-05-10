@@ -5,11 +5,13 @@
 - ECMAscript
 - Console
 - Stack
-- Primitives: booleans, strings, integers, floats
+- Primitives: booleans, strings, integers
 - Variables
 - Functions / methods
 - Parameters
 - Returning
+- Arrays
+- Objects
 - Closures
 - Loops
 - If-statements
@@ -20,3 +22,6 @@
 
 ## Understanding JS
 * What _is_ JavaScript?
+
+## npm
+* We use `http-server` to serve files
