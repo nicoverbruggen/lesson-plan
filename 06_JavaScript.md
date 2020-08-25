@@ -86,7 +86,7 @@
     - It's like putting a sign to point at a box that contains something.
 * What keyword do we use to assign a variable?
     - `let` (in case we need to be able to reassign it)
-    - `var` (in case we don't need to reassign it) 
+    - `const` (in case we don't need to reassign it) 
 * What's the difference between reassigning a variable and a property?
 * Can you reassign a constant?
     - No. The point is that you cannot.
